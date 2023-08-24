@@ -2,6 +2,14 @@
 株式会社フィックスポイント ・プログラミング試験の解答
 
 今回はPythonでpandasを使いました。
+
+<<解答>>
+
+解答ファイルに設問1.py、設2.py、設問3.pyと設問4.py
+合計4つのpyファイルがあります
+
+<<インプットファイル>>
+
 設問1.py、設2.py、設問3.py のInput Fileはnetwork_log.csvです。
 設問4.py　のInput Fileはnetwork_log.csvとsubnetkey.csvです。
 
