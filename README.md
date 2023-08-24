@@ -10,7 +10,7 @@
 
 **ファイルの頭にある**input_filepath と output_filepath (設問4.pyの場合subnetkey_filepathも)を予めに設定する必要があります。
 
-<<Outputについて>>
+<<結果について>>
 
 各pyフィルムを実行すれば、設問1.pyはoutput_Q1、設問2.pyはoutput_Q2　それぞれのOutput Fileが出てきます。
 pyフィルム内に英語と日本語の説明がありますが、普段英語で開発しますので、もし日本語の説明が不足でしたら申し訳ございません。
