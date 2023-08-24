@@ -7,6 +7,7 @@
 
 
 <<各pyフィルムを実行する前に>>
+
 **ファイルの頭にある**input_filepath と output_filepath (設問4.pyの場合subnetkey_filepathも)を予めに設定する必要があります。
 
 <<Outputについて>>
